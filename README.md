@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 Demo of this app [https://serene-dawn-02883.herokuapp.com/] to view it in the browser.
-##Demo
+## Demo
 In the project directory, you can run:
 
 ### `npm start`
