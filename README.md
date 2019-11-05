@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-Demo of this app [https://serene-dawn-02883.herokuapp.com/] to view it in the browser.
+Demo of this app [https://serene-dawn-02883.herokuapp.com/](https://serene-dawn-02883.herokuapp.com/) to view it in the browser.
 ## Demo
 In the project directory, you can run:
 
